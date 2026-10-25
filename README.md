@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://github.com/pragathidevanga">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F2027,50:203A43,100:2C5364&text=PRAGATHI%20BR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=60&descSize=20" width="100%" alt="Pragathi BR GitHub banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F2027,50:203A43,100:2C5364&text=PRAGATHI%20BR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=60&descSize=20" width="100%" alt="Pragathi BR profile banner"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/pragathidevanga">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://pragathi-br.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-00BCD4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/pragathi-br-4b1498405/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://pragathi-br.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00BCD4?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
 </p>
 
@@ -24,31 +24,18 @@
 
 ## 🌟 About Me
 
-Hello! I'm **Pragathi BR**, a Bachelor of Computer Applications student interested in software development, data analytics, artificial intelligence, and emerging technologies.
+Hello! I'm **Pragathi BR**, a Bachelor of Computer Applications student passionate about software development, data analytics, artificial intelligence, and emerging technologies.
 
-I enjoy building practical projects that connect programming concepts with real-world applications. My interests range from creating web applications and analyzing datasets to exploring machine learning, natural language processing, and robotics.
+I enjoy learning new technologies and applying them through hands-on projects. My interests include building full-stack web applications, exploring data-driven solutions, experimenting with machine learning and natural language processing, and working with robotics and IoT concepts.
 
-I believe in learning through hands-on experience, experimenting with new tools, and continuously improving my technical and problem-solving skills. Every project gives me an opportunity to understand a concept better, solve a challenge, and develop something useful.
+I believe in continuous learning, practical problem-solving, and improving through every project I build. I enjoy turning ideas into working applications and exploring how technology can solve real-world problems.
 
-### 🎯 My Interests
-
-- 💻 Software development and problem-solving
-- 🌐 Full-stack web development
-- 📊 SQL, data analytics, and Power BI
-- 🧠 Artificial intelligence and machine learning
-- 💬 Natural language processing and text classification
-- 🤖 Internet of Things, Arduino, and robotics
-- 🌱 Sustainability and environmental technology
-- 📚 Continuous learning and collaborative projects
-
-### 🚀 Current Goals
-
-- Strengthen my programming and DSA fundamentals.
-- Build useful web applications and developer tools.
-- Improve my SQL and data visualization skills.
-- Explore AI and machine learning through practical projects.
-- Learn more about IoT, embedded systems, and automation.
-- Build a portfolio that demonstrates my technical growth.
+- 💻 Interested in software development and application building.
+- 📊 Exploring SQL, Power BI, and data analytics.
+- 🧠 Learning and experimenting with AI, machine learning, and NLP.
+- 🌐 Building projects using frontend and backend technologies.
+- 🤖 Exploring Arduino, robotics, and hardware–software integration.
+- 🌱 Interested in sustainability and technology for environmental awareness.
 
 ---
 
@@ -56,59 +43,60 @@ I believe in learning through hands-on experience, experimenting with new tools,
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java and JavaScript"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript and React"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Node.js, Express and Python"/>
+</p>
+
+### 🗄️ Databases & Data Warehousing
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL"/>
+  <img src="https://img.shields.io/badge/Data_Warehousing-00695C?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehousing"/>
 </p>
 
 ### 📊 Data Analytics & Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
-### 🤖 Artificial Intelligence, Machine Learning & NLP
+### 🤖 AI, Machine Learning & NLP
 
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-412991?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/NLP-5C6BC0?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow and PyTorch"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NLP-5C6BC0?style=for-the-badge&logo=spacy&logoColor=white" alt="Natural Language Processing"/>
 </p>
 
-### 🗄️ Databases & Data Warehousing
+### 🔌 IoT & Robotics
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Data_Warehousing-00695C?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehousing"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Robotics-203A43?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-00695C?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems"/>
 </p>
 
-### 🤖 IoT, Robotics & Tools
+### 🧰 Development Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman"/>
 </p>
 
 ### 🧩 Core Technical Concepts
@@ -117,215 +105,204 @@ I believe in learning through hands-on experience, experimenting with new tools,
 - Object-Oriented Programming (OOP)
 - Database Management Systems (DBMS)
 - SQL queries and relational databases
-- Data cleaning, analysis, and visualization
+- Data cleaning and exploratory data analysis
 - Statistical and predictive analysis
 - REST API development and testing
-- Text preprocessing and classification
+- Machine learning and text classification
 - Embedded systems and robotics fundamentals
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🧠 GitHub Code Explainer
+### 🧠 1. GitHub Code Explainer
 
-**Category:** Developer Tools | Python | Code Understanding
+**Technologies:** Python, Streamlit, Transformers, GitPython
 
-A project designed to help developers and learners understand source code more easily. It focuses on explaining code and making code exploration more approachable.
+A developer-focused project designed to help users understand source code and explore unfamiliar repositories more easily.
 
-**Highlights**
-- Designed around source-code understanding.
-- Helps learners explore unfamiliar code.
-- Combines software development with AI-assisted learning concepts.
+- Helps users explore and understand source code.
+- Focuses on code explanation and developer learning.
+- Uses a local application workflow for running the tool.
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/GitHub-Code_Explainer)**
+🔗 **[GitHub Repository](https://github.com/pragathidevanga/GitHub-Code_Explainer)**
 
-*Local application:* Follow the setup instructions in the repository to run it on your computer. No public live-demo URL is currently confirmed.
+### 🤖 2. Runtime Terror — Arduino Bluetooth RC Car & Line Follower
 
-### 2. 🤖 Runtime Terror — Arduino Bluetooth RC Car & Line Follower
+**Technologies:** Arduino, Bluetooth, Robotics
 
-**Category:** IoT-Related Project | Robotics | Arduino | Automation
+A team robotics project combining a Bluetooth-controlled RC car with line-following functionality.
 
-A team project combining an Arduino-based robotic car, Bluetooth control, and line-following functionality. It provides hands-on experience with hardware–software integration and robotics concepts.
+- Arduino-based robotic car.
+- Bluetooth control and line-following capabilities.
+- Practical exploration of embedded systems and hardware–software integration.
 
-**Highlights**
-- Arduino-based car project.
-- Bluetooth-controlled movement.
-- Line-following functionality.
-- Practical teamwork and hardware integration.
+🔗 **[GitHub Repository](https://github.com/DIPINROKA10/Runtime_Terror)**
 
-🔗 **[View GitHub Repository](https://github.com/DIPINROKA10/Runtime_Terror)**
+### 🌱 3. GreenTrace — Carbon Footprint Tracker
 
-*Live demo:* No verified public web demo is listed for this hardware project.
+**Technologies:** HTML, CSS, JavaScript, Python
 
-### 3. 🌱 GreenTrace — Carbon Footprint Tracker
+A sustainability-focused application that helps users explore the environmental impact of everyday products, including carbon emissions, water usage, energy consumption, and waste.
 
-**Category:** Sustainability | Web Development | Environmental Technology
+- Explores the lifecycle impact of everyday products.
+- Includes a “Should I Switch?” concept.
+- Connects technology with sustainability awareness.
 
-GreenTrace helps users explore the environmental impact of everyday products, including carbon emissions, water usage, energy consumption, and waste.
-
-**Highlights**
-- Product lifecycle impact exploration.
-- Focus on carbon, water, energy, and waste.
-- “Should I Switch?” concept for exploring more sustainable choices.
-- Technology applied to environmental awareness.
-
-🔗 **[View GitHub Profile for the Project Source](https://github.com/pragathidevanga)**
+🔗 **[GitHub Profile — Project Source Directory](https://github.com/pragathidevanga)**
 
 🌐 **[Live Demo — GreenTrace](https://splendid-fudge-521fc5.netlify.app/)**
 
-### 4. 💼 Full Stack Job Portal Application
+### 💼 4. Full Stack Job Portal Application
 
-**Category:** Full-Stack Development | MERN Stack
+**Technologies:** MongoDB, Express.js, React.js, Node.js
 
-A full-stack web application project focused on job-seeking and recruitment workflows, providing practical experience with modern web development technologies.
+A full-stack job portal project focused on job-seeking and recruitment workflows.
 
-**Highlights**
-- Full-stack application development.
-- MERN-stack technologies.
+- Full-stack web application development.
 - Frontend and backend integration.
-- Job and recruitment-related workflows.
+- Job and recruitment-related functionality.
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/FULL_STACK_DEVELOPMENT_JOB_PROTAL_APPLICATION_PROJECT)**
+🔗 **[GitHub Repository](https://github.com/pragathidevanga/FULL_STACK_DEVELOPMENT_JOB_PROTAL_APPLICATION_PROJECT)**
 
 🌐 **[Live Demo — Job Portal](https://job-portal-application-app.netlify.app/)**
 
-### 5. 📊 E-commerce User Behavior Analysis
+### 📊 5. E-commerce User Behavior Analysis
 
-**Category:** Data Analytics | Statistical Analysis | Predictive Techniques
+**Focus:** Data Analytics, Statistics, Predictive Techniques
 
-A data analysis project exploring e-commerce user behavior through statistical and predictive techniques.
+A project exploring e-commerce user behavior through statistical and predictive techniques.
 
-**Highlights**
-- Analysis of e-commerce user activity.
-- Statistical and predictive approaches.
-- Data-driven exploration of user behavior.
-- Practical analytical problem-solving.
+- Examines user behavior patterns.
+- Applies analytical and predictive methods.
+- Uses data-driven approaches to explore user activity.
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/E-commerce-User-Behavior-Analysis-using-Statistical-and-Predictive-Techniques)**
+🔗 **[GitHub Repository](https://github.com/pragathidevanga/E-commerce-User-Behavior-Analysis-using-Statistical-and-Predictive-Techniques)**
 
-### 6. 📩 SMS Spam Detection Using NLP
+### 📩 6. SMS Spam Detection Using NLP
 
-**Category:** Machine Learning | Natural Language Processing | Text Classification
+**Technologies:** Python, NLP, Pandas, NumPy, Scikit-learn
 
-A project focused on classifying SMS messages as spam or legitimate using NLP and machine learning concepts.
+A machine learning project that classifies SMS messages as spam or legitimate messages.
 
-**Highlights**
-- SMS text analysis.
-- Text preprocessing and feature preparation.
-- Spam-versus-legitimate message classification.
-- Practical application of machine learning to text data.
+- Text preprocessing and message analysis.
+- NLP-based feature preparation.
+- Machine learning classification.
+- A simple interface for trying message predictions.
 
-🔗 **[View GitHub Repository](YOUR_SMS_SPAM_REPOSITORY_URL)**
+🔗 **[GitHub Repository](https://github.com/pragathidevanga/Natural_Language_Processing-NLP-)**
 
-🌐 **[Live Demo — SMS Spam Detection](YOUR_SMS_SPAM_LIVE_DEMO_URL)**
+🌐 **[Live Demo — SMS Spam Detection](https://spams.netlify.app/)**
 
-*Replace the two placeholders with your actual repository and deployed application URLs. A live demo should point to your deployed app, not simply to a GitHub repository.*
+### 🏥 7. RosterDesk — Hospital Shift Roster
 
-### 7. 🏥 RosterDesk — Hospital Shift Roster
-
-**Category:** Software Development | Scheduling
+**Focus:** Software Development, Scheduling
 
 A project focused on hospital shift-roster management and organizing staff scheduling workflows.
 
-**Highlights**
 - Hospital scheduling use case.
 - Shift-roster organization.
 - Applying software development to a practical workflow.
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/Pragathi-BR-RosterDesk-Hospital-Shift-Roster)**
+🔗 **[GitHub Repository](https://github.com/pragathidevanga/Pragathi-BR-RosterDesk-Hospital-Shift-Roster)**
 
-### 8. 🧪 Deep Learning Projects
+### 🧪 8. Deep Learning Projects
 
-**Category:** Artificial Intelligence | Neural Networks | Deep Learning
+**Focus:** Neural Networks, Deep Learning, Model Training
 
-A collection of deep learning coursework and experiments exploring neural networks and model-building concepts.
+A collection of deep learning coursework and experiments exploring neural network concepts and model-building techniques.
 
-**Highlights**
 - Neural network fundamentals.
 - Deep learning experimentation.
 - Model training and evaluation concepts.
-- Practical learning through implementation.
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/Deep-Learning-Projects)**
+🔗 **[GitHub Repository](https://github.com/pragathidevanga/Deep-Learning-Projects)**
 
-### 9. 🏦 Customer Churn Prediction in the Banking Sector
+### 🏦 9. Customer Churn Prediction in the Banking Sector
 
-**Category:** Data Science | Predictive Analytics
+**Focus:** Data Science, Predictive Analytics, Machine Learning
 
-A data science project exploring customer behavior and the prediction of potential customer churn in the banking sector.
+A data science project exploring customer behavior and potential churn in the banking sector.
 
-**Highlights**
 - Customer behavior analysis.
-- Data preparation and predictive modeling.
-- Exploring churn-related patterns.
-- Applying data science to a business problem.
+- Predictive modeling concepts.
+- Application of data science to a business problem.
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/Customer-Churn-Predicition-in-Banking-Sector-Using-Data-Science-Techniques)**
-
----
-
-## 📚 Learning & Development
-
-I continue to develop my knowledge through coursework, technical projects, and hands-on experimentation.
-
-| Area | Focus |
-|---|---|
-| Programming | Python, Java, JavaScript, SQL |
-| Web Development | HTML, CSS, React, Node.js, Express.js |
-| Databases | SQL, MySQL, MongoDB |
-| Data Analytics | Power BI, Excel, Pandas, NumPy |
-| AI & ML | Machine learning, deep learning, NLP |
-| IoT & Robotics | Arduino, Bluetooth control, line following |
-| Software Tools | Git, GitHub, Postman, VS Code |
+🔗 **[GitHub Repository](https://github.com/pragathidevanga/Customer-Churn-Predicition-in-Banking-Sector-Using-Data-Science-Techniques)**
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/pragathidevanga">
-    <img src="https://github-readme-stats.vercel.app/api?username=pragathidevanga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
-  </a>
-  <a href="https://github.com/pragathidevanga">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathidevanga&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragathidevanga&theme=tokyonight" width="98%" alt="GitHub profile contribution summary"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pragathidevanga">
-    <img src="https://streak-stats.demolab.com?user=pragathidevanga&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pragathidevanga&theme=tokyonight" height="175" alt="GitHub contribution statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pragathidevanga&theme=tokyonight&utcOffset=5.5" height="175" alt="GitHub productive time summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathidevanga&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pragathidevanga&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pragathidevanga&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
+</p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 </p>
 
 ---
 
-## 🌱 My Approach to Learning
+## 🎯 My Learning Journey
 
-I believe in learning by building, experimenting, and improving. Whether I am developing an application, analyzing data, exploring AI, or working on a robotics project, I aim to understand the concepts behind the technology and apply them practically.
+I believe that consistent practice and hands-on experience are essential for technical growth. Through academic assignments, personal projects, and collaborative work, I continue exploring programming, analytics, AI, web development, and robotics.
 
-I value consistency, curiosity, teamwork, and continuous improvement. My goal is to keep learning, contribute to meaningful projects, and grow as a software professional.
+My goal is to build practical applications, strengthen my fundamentals, learn from challenges, and contribute to meaningful technology projects.
 
 ---
 
-## 🤝 Let's Connect!
+## 🔗 Find Me Online
 
 <p align="center">
   <a href="https://github.com/pragathidevanga">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pragathi-br-4b1498405/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
   </a>
   <a href="https://pragathi-br.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-00BCD4?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-00BCD4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pragathi-br-4b1498405/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
 <p align="center">
-  <i>"Keep learning, keep building, and keep growing — one project at a time."</i>
+  <b>GitHub:</b> <a href="https://github.com/pragathidevanga">Explore my repositories</a><br/>
+  <b>Portfolio:</b> <a href="https://pragathi-br.vercel.app/">Explore my projects and experience</a><br/>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/pragathi-br-4b1498405/">Connect professionally</a><br/>
+  <b>LeetCode:</b> <a href="https://leetcode.com/">Practice coding problems</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learn continuously, build fearlessly, and turn ideas into impact."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0F2027,100:2C5364&section=footer" width="100%" alt="GitHub profile footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0F2027,100:2C5364&section=footer" width="100%" alt="Profile footer"/>
 </p>
