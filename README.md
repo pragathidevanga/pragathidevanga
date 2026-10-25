@@ -91,7 +91,7 @@ An AI-focused project exploring agent-based workflows and intelligent task execu
 An AI-powered application designed to help developers understand GitHub repositories by explaining code structure and functionality.
 
 - **Tech Stack:** Python, Streamlit, FastAPI, Hugging Face Transformers, GitPython
-- 🔗 [Source Code](https://github.com/pragathidevanga/GitHub-Code_Explainer)
+- 🔗 [Source Code](https://github.com/pragathidevanga/Local-GitHub-Repository-Code-Explainer)
 - 🌐 [Live Demo](https://local-app-repository-code-explainer-czqt3dikhxtfcfga9j7kee.streamlit.app/)
 
 ## 📈 GitHub Statistics
