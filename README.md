@@ -269,9 +269,6 @@ Let's connect, share ideas, and learn together!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:071A2C&height=110&section=footer" width="100%" alt="Decorative footer banner" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0F2027,100:2C5364&section=footer" width="100%" alt="Profile footer"/>
-</p>
 
 </div>
 
