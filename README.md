@@ -1,291 +1,269 @@
-# 👋 Hi, I'm Pragathi BR!
+ 
+<div align="center">
 
-### 💻 Software Development | Data Analytics | AI & Machine Learning | IoT & Robotics
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,50:075985,100:06B6D4&height=230&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PRAGATHI%20BR%20%7C%20BUILDING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=58&descColor=BAE6FD" width="100%" alt="Welcome to my GitHub profile" />
 
-<p align="center">
-  <a href="https://github.com/pragathidevanga">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F2027,50:203A43,100:2C5364&text=PRAGATHI%20BR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=60&descSize=20" width="100%" alt="Pragathi BR GitHub profile banner"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Full-Stack+Web+Development+Enthusiast;Exploring+AI%2C+Machine+Learning+%26+Data+Analytics;Turning+Ideas+Into+Practical+Projects" alt="Developer introduction" />
 
----
+<br/>
 
-## 🌟 About Me
+### 👩‍💻 Pragathi BR
 
-Hello! I'm **Pragathi BR**, a Bachelor of Computer Applications student passionate about software development, data analytics, artificial intelligence, and emerging technologies.
+**Curious Mind • Creative Builder • Continuous Learner**
 
-I enjoy building practical projects that combine programming, analytical thinking, and real-world problem-solving. My interests include developing web applications, working with databases, exploring machine learning, analyzing data, and experimenting with robotics and IoT concepts.
+*Welcome to my corner of GitHub — where I learn, build, experiment, and turn ideas into projects.*
 
-I believe that continuous learning and hands-on experience are essential for professional growth. Through my academic work and projects, I continue to improve my programming skills, explore new technologies, and turn ideas into practical solutions.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B7285?style=for-the-badge&logo=vercel&logoColor=white)](https://pragathi-br.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-075985?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragathi-br-4b1498405/)
 
-- 💻 Interested in software development and programming.
-- 🌐 Exploring frontend and full-stack web development.
-- 📊 Working with SQL, Power BI, and data analytics.
-- 🧠 Exploring artificial intelligence, machine learning, and NLP.
-- 🤖 Interested in Arduino, IoT, and robotics.
-- 🌱 Passionate about sustainability and technology-driven solutions.
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 👋 About Me
+
+Hi! I'm **Pragathi BR**, a BCA student passionate about software development, data analytics, and emerging technologies.
+
+- 💻 Interested in developing practical, user-friendly applications.
+- 🌐 Exploring full-stack web development and modern technologies.
+- 🤖 Learning and experimenting with Artificial Intelligence, Machine Learning, and Natural Language Processing.
+- 📊 Enjoy working with SQL, Python, Power BI, and data-driven insights.
+- 🛠️ Believe in learning by building real-world projects.
+- 🌱 Always exploring new tools, improving my skills, and taking on new challenges.
+- 🎯 Working toward becoming a skilled software professional who builds meaningful solutions.
+
+---
+
+## 🧰 Technical Skills
+
+<div align="center">
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java and JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql&theme=dark" alt="Programming language icons" />
 
-### 🌐 Frontend Development
+### 🎨 Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS and React"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend technology icons" />
 
 ### ⚙️ Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technology icons" />
 
-### 🗄️ Databases & Data Warehousing
+### 🗄️ Databases and Data Management
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL"/>
-  <img src="https://img.shields.io/badge/Data_Warehousing-00695C?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehousing"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database icons" />
 
-### 📊 Data Analytics & Visualization
+### 🤖 AI, Machine Learning and Data Science
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI and machine learning icons" />
 
-### 🤖 Artificial Intelligence, Machine Learning & NLP
+### 🛠️ Tools and Development Environment
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow and PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/NLP-5C6BC0?style=for-the-badge&logo=spacy&logoColor=white" alt="Natural Language Processing"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development tools icons" />
 
-### 🔌 IoT & Robotics
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/IoT-00838F?style=for-the-badge&logo=arduino&logoColor=white" alt="Internet of Things"/>
-  <img src="https://img.shields.io/badge/Robotics-203A43?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics"/>
-</p>
+### 📚 Additional Technical Knowledge
 
-### 🧰 Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code and Postman"/>
-</p>
-
-### 🧩 Core Technical Concepts
-
-- Data Structures and Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- SQL queries and relational databases
-- Data cleaning and exploratory data analysis
-- Statistical and predictive analysis
-- REST API development and testing
-- Machine learning and text classification
-- Embedded systems and robotics fundamentals
+| Category | Skills |
+|---|---|
+| Programming | Python, Java, JavaScript, SQL |
+| Web Development | HTML, CSS, React.js, Node.js, Express.js |
+| Databases | MongoDB, MySQL, Database Management |
+| Data Analytics | Power BI, Excel, Pandas, NumPy, Data Visualization |
+| AI and ML | Machine Learning, NLP, Deep Learning fundamentals |
+| Software Engineering | Data Structures and Algorithms, OOP, REST APIs |
+| Data Management | Data Warehousing, Data Analysis |
+| Tools | Git, GitHub, VS Code, Postman |
+| Emerging Technologies | Generative AI, IoT, Arduino, Robotics |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 1. GitHub Code Explainer
+*A selection of projects that reflect my learning, experimentation, and practical development experience.*
 
-**Focus:** Developer Tools | Python | Code Understanding
+### 1. 🌐 Full Stack Job Portal Application
 
-A developer tool designed to help users understand source code and explore unfamiliar repositories. It focuses on making code easier to read and understand.
+A full-stack web application focused on connecting job seekers with employment opportunities.
 
-**Highlights**
-- Source-code exploration and explanation.
-- Designed to support developers and learners.
-- Local application workflow.
+**Technologies:** MongoDB • Express.js • React.js • Node.js
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/GitHub-Code_Explainer)**
+- Developed as a MERN stack application.
+- Explored full-stack application development and job portal workflows.
 
-### 🤖 2. Runtime Terror — Arduino Bluetooth RC Car & Line Follower
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/FULL_STACK_DEVELOPMENT_JOB_PROTAL_APPLICATION_PROJECT)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=netlify&logoColor=white)](https://job-portal-application-app.netlify.app/)
 
-**Focus:** IoT | Arduino | Robotics
+---
 
-A team robotics project combining a Bluetooth-controlled RC car with line-following functionality.
+### 2. 🌱 GreenTrace — Student Carbon Footprint Tracker
 
-**Highlights**
-- Arduino-based robotic car.
-- Bluetooth control.
-- Line-following functionality.
-- Hardware–software integration.
+A sustainability-focused application that helps students explore the environmental impact of everyday products.
 
-🔗 **[View GitHub Repository](https://github.com/DIPINROKA10/Runtime_Terror)**
+**Technologies:** HTML • CSS • JavaScript • Python
 
-### 🌱 3. GreenTrace — Carbon Footprint Tracker
+- Explores product lifecycle impacts, including carbon emissions, water, energy, and waste.
+- Includes a “Should I Switch?” concept to encourage more sustainable choices.
+- Designed around everyday products relevant to Indian students.
 
-**Focus:** Sustainability | Web Development
+[![Live Demo](https://img.shields.io/badge/EXPLORE_GREENTRACE-15803D?style=for-the-badge&logo=netlify&logoColor=white)](https://splendid-fudge-521fc5.netlify.app/)
 
-A sustainability-focused application that helps users explore the environmental impact of everyday products, including carbon emissions, water usage, energy consumption, and waste.
+---
 
-**Highlights**
-- Product lifecycle impact exploration.
-- Carbon, water, energy, and waste considerations.
-- “Should I Switch?” concept.
-- Environmental awareness through technology.
+### 3. 🛡️ SMS Spam Detection
 
-🔗 **[Explore My GitHub Projects](https://github.com/pragathidevanga)**
+A Natural Language Processing project focused on identifying spam messages using text classification techniques.
 
-🌐 **[Live Demo — GreenTrace](https://splendid-fudge-521fc5.netlify.app/)**
+**Technologies:** Python • NLP • Scikit-learn
 
-### 💼 4. Full Stack Job Portal Application
+- Explores text preprocessing and feature extraction.
+- Applies machine learning concepts to spam classification.
 
-**Focus:** Full-Stack Web Development | MERN Stack
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/Natural_Language_Processing-NLP-)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=netlify&logoColor=white)](https://spams.netlify.app/)
 
-A full-stack application project focused on job-seeking and recruitment workflows.
+---
 
-**Highlights**
-- MERN-stack development.
-- Frontend and backend integration.
-- Job and recruitment-related functionality.
+### 4. 🛒 E-commerce User Behavior Analysis
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/FULL_STACK_DEVELOPMENT_JOB_PROTAL_APPLICATION_PROJECT)**
+A data analysis project focused on understanding customer behavior and exploring statistical and predictive techniques.
 
-🌐 **[Live Demo — Job Portal](https://job-portal-application-app.netlify.app/)**
+**Technologies:** Python • Statistics • Data Analysis • Predictive Techniques
 
-### 📊 5. E-commerce User Behavior Analysis
+- Explores user behavior through data-driven analysis.
+- Applies statistical and predictive approaches to identify useful patterns.
 
-**Focus:** Data Analytics | Statistics | Predictive Techniques
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/E-commerce-User-Behavior-Analysis-using-Statistical-and-Predictive-Techniques)
 
-A project exploring e-commerce user behavior through statistical and predictive techniques.
+---
 
-**Highlights**
-- User behavior analysis.
-- Statistical and predictive approaches.
-- Data-driven exploration of user activity.
+### 5. 🏥 RosterDesk — Hospital Shift Roster
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/E-commerce-User-Behavior-Analysis-using-Statistical-and-Predictive-Techniques)**
+A project focused on hospital shift roster management and organizing staff scheduling workflows.
 
-### 📩 6. SMS Spam Detection Using NLP
+**Technologies:** Web Development • Application Development
 
-**Focus:** Python | Machine Learning | Natural Language Processing
+- Focuses on structured shift and roster management.
+- Explores a practical workflow-oriented application.
 
-A text-classification project designed to distinguish spam messages from legitimate SMS messages.
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/Pragathi-BR-RosterDesk-Hospital-Shift-Roster)
 
-**Highlights**
-- SMS text preprocessing.
-- NLP-based text analysis.
-- Machine learning classification.
-- Interactive message prediction through the deployed application.
+---
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/Natural_Language_Processing-NLP-)**
+### 6. 🤖 GitHub Code Explainer
 
-🌐 **[Live Demo — SMS Spam Detection](https://spams.netlify.app/)**
+A developer-focused project designed to help users explore and understand code in GitHub repositories.
 
-### 🏥 7. RosterDesk — Hospital Shift Roster
+**Technologies:** Python • Streamlit • Transformers • GitPython
 
-**Focus:** Software Development | Scheduling
+- Explores AI-assisted code explanation.
+- Uses repository processing and language-model concepts to support code understanding.
 
-A project focused on hospital shift-roster management and organizing staff scheduling workflows.
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/GitHub-Code_Explainer)
 
-**Highlights**
-- Hospital scheduling use case.
-- Shift-roster organization.
-- Software development for practical workflows.
+---
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/Pragathi-BR-RosterDesk-Hospital-Shift-Roster)**
+### 7. 🚗 Runtime Terror — Arduino Bluetooth RC Car and Line Follower
 
-### 🧪 8. Deep Learning Projects
+A team robotics project combining hardware, control logic, and practical experimentation.
 
-**Focus:** Artificial Intelligence | Neural Networks
+**Technologies:** Arduino • Bluetooth • Robotics • Embedded Systems
 
-A collection of deep learning coursework and experiments exploring neural network concepts and model-building techniques.
+- Worked on a Bluetooth-controlled RC car and line-following functionality.
+- Explored hardware integration and robot movement control.
 
-**Highlights**
-- Neural network fundamentals.
-- Model training and experimentation.
-- Deep learning concepts and evaluation.
+[![GitHub](https://img.shields.io/badge/VIEW_TEAM_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIPINROKA10/Runtime_Terror)
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/Deep-Learning-Projects)**
+---
 
-### 🏦 9. Customer Churn Prediction in the Banking Sector
+### 8. 🧠 Agentic AI Project
 
-**Focus:** Data Science | Predictive Analytics
+A project exploring Agentic AI concepts and AI-powered workflows.
 
-A data science project exploring customer behavior and the prediction of potential churn in the banking sector.
+**Technologies:** Python • Artificial Intelligence
 
-**Highlights**
-- Customer behavior analysis.
-- Predictive modeling concepts.
-- Data science applied to a business problem.
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/Agentic_AI_Project)
 
-🔗 **[View GitHub Repository](https://github.com/pragathidevanga/Customer-Churn-Predicition-in-Banking-Sector-Using-Data-Science-Techniques)**
+---
+
+### 9. 📊 Superstore Sales Dashboard
+
+A business-oriented data visualization project designed to explore sales data and present insights through a dashboard.
+
+**Technologies:** Power BI • Excel • Data Visualization
+
+*Add the repository link here if you want to feature this project once its exact public repository URL is confirmed.*
 
 ---
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=pragathidevanga&theme=tokyonight" width="95%" alt="GitHub profile statistics"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=pragathidevanga&layout=donut&theme=tokyonight" width="95%" alt="GitHub language distribution"/>
-</p>
+### 📊 Profile Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pragathidevanga&theme=tokyonight&hide_border=true&background=0D1117" width="95%" alt="GitHub contribution streak"/>
-</p>
+<img src="https://ghstats.dev/api/card?username=pragathidevanga&theme=tokyonight" width="49%" alt="GitHub profile statistics" />
+<img src="https://ghstats.dev/api/card?username=pragathidevanga&layout=donut&theme=tokyonight" width="49%" alt="GitHub language breakdown" />
 
-<p align="center">
-  <a href="https://github.com/pragathidevanga?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-203A43?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-  </a>
-</p>
+<br/><br/>
 
----
+### 🔥 Contribution Streak
 
-## 🌱 My Learning Journey
+<img src="https://streak-stats.demolab.com?user=pragathidevanga&theme=tokyonight&hide_border=true&background=0D1117" width="70%" alt="GitHub contribution streak" />
 
-I believe in learning by building, experimenting, and improving. Whether I am developing an application, analyzing data, exploring AI, or working on a robotics project, I aim to understand the underlying concepts and apply them practically.
+<br/><br/>
 
-My goal is to continue improving my technical skills, build meaningful projects, and grow as a software professional.
+### 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution graph animation" />
+
+</div>
 
 ---
 
-## 🔗 Connect With Me
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="https://github.com/pragathidevanga">
-    <img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-  </a>
-  <a href="https://pragathi-br.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-My%20Projects-00BCD4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pragathi-br-4b1498405/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Coding%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-</p>
+- Strengthening programming fundamentals and problem-solving skills.
+- Practicing SQL and data analysis.
+- Building web development projects.
+- Exploring AI, Machine Learning, NLP, and Generative AI.
+- Improving project documentation and maintaining my GitHub repositories.
+- Learning through experimentation, feedback, and continuous practice.
 
 ---
 
-<p align="center">
-  <i>“Learn continuously, build fearlessly, and turn ideas into impact.”</i>
-</p>
+## 🌟 My Development Philosophy
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0F2027,100:2C5364&section=footer" width="100%" alt="Profile footer"/>
-</p>
+> “Great things are built one line of code, one lesson, and one improvement at a time.”
+
+I believe consistent learning, curiosity, and practical experience are essential to becoming a better developer. Every project is an opportunity to learn something new and build something useful.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+Let's connect, share ideas, and learn together!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=vercel&logoColor=white)](https://pragathi-br.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragathi-br-4b1498405/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-166534?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pragathidevanga&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile view counter" />
+
+<br/><br/>
+
+**Thanks for visiting my GitHub profile! 💙**
+
+*Keep learning. Keep building. Keep growing.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:071A2C&height=110&section=footer" width="100%" alt="Decorative footer banner" />
+
+</div>
