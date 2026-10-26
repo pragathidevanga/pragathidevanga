@@ -57,6 +57,16 @@ Hi! I'm **Pragathi BR**, a BCA student passionate about software development, da
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI and machine learning icons" />
 
+### 📊 Data Analytics
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+<img src="https://img.shields.io/badge/SQL-075985?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Data%20Visualization-0B7285?style=for-the-badge" alt="Data Visualization" />
+<img src="https://img.shields.io/badge/Data%20Analysis-166534?style=for-the-badge" alt="Data Analysis" />
+
 ### 🛠️ Tools and Development Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development tools icons" />
@@ -70,7 +80,7 @@ Hi! I'm **Pragathi BR**, a BCA student passionate about software development, da
 | Programming | Python, Java, JavaScript, SQL |
 | Web Development | HTML, CSS, React.js, Node.js, Express.js |
 | Databases | MongoDB, MySQL, Database Management |
-| Data Analytics | Power BI, Excel, Pandas, NumPy, Data Visualization |
+| Data Analytics | Power BI, Excel, Pandas, NumPy, Data Visualization, Data Analysis |
 | AI and ML | Machine Learning, NLP, Deep Learning fundamentals |
 | Software Engineering | Data Structures and Algorithms, OOP, REST APIs |
 | Data Management | Data Warehousing, Data Analysis |
@@ -106,6 +116,7 @@ A sustainability-focused application that helps students explore the environment
 - Explores product lifecycle impacts, including carbon emissions, water, energy, and waste.
 - Includes a “Should I Switch?” concept to encourage more sustainable choices.
 - Designed around everyday products relevant to Indian students.
+
 [![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/GreenTrace-Indian-College-Student-Carbon-Footprint-Tracker)
 
 [![Live Demo](https://img.shields.io/badge/EXPLORE_GREENTRACE-15803D?style=for-the-badge&logo=netlify&logoColor=white)](https://splendid-fudge-521fc5.netlify.app/)
@@ -163,8 +174,7 @@ A developer-focused project designed to help users explore and understand code i
 
 [![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/Local-GitHub-Repository-Code-Explainer)
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=netlify&logoColor=white)](https://local-app-repository-code-explainer-czqt3dikhxtfcfga9j7kee.streamlit.app/)
-
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=streamlit&logoColor=white)](https://local-app-repository-code-explainer-czqt3dikhxtfcfga9j7kee.streamlit.app/)
 
 ---
 
@@ -208,7 +218,6 @@ A business-oriented data visualization project designed to explore sales data an
 ### 📊 Profile Statistics
 
 <img src="https://ghstats.dev/api/card?username=pragathidevanga&theme=tokyonight" width="49%" alt="GitHub profile statistics" />
-
 
 <br/><br/>
 
@@ -263,12 +272,12 @@ Let's connect, share ideas, and learn together!
 
 <br/><br/>
 
-**Thanks for visiting my GitHub profile! 💙**
+<img src="https://github.com/pragathidevanga.png" width="150" alt="Pragathi BR GitHub profile picture" />
+
+### 💙 Thanks for visiting my GitHub profile!
 
 *Keep learning. Keep building. Keep growing.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:071A2C&height=110&section=footer" width="100%" alt="Decorative footer banner" />
 
-
 </div>
-
