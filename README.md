@@ -1,9 +1,9 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,50:075985,100:06B6D4&height=230&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PRAGATHI%20BR%20%7C%20BUILDING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=58&descColor=BAE6FD" width="100%" alt="Welcome to my GitHub profile" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,50:075985,100:06B6D4&height=230&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PRAGATHI%20BR%20%7C%20BUILDING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=58&descColor=BAE6FD" width="100%" alt="Welcome to my GitHub profile"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Full-Stack+Web+Development+Enthusiast;Data+Analytics+%7C+Power+BI+%7C+SQL;Exploring+AI%2C+Machine+Learning+%26+NLP;Turning+Ideas+Into+Practical+Projects" width="100%" alt="Developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Full-Stack+Web+Development;Data+Analytics+%7C+Power+BI+%7C+SQL;AI+%7C+Machine+Learning+%7C+NLP;Turning+Ideas+Into+Practical+Projects" width="100%" alt="Developer introduction"/>
 
 ### 👩‍💻 Pragathi BR
 
@@ -20,12 +20,12 @@
 Hi! I'm **Pragathi BR**, a BCA student passionate about software development, data analytics, and emerging technologies.
 
 - 💻 Interested in building practical, user-friendly applications.
-- 🌐 Exploring full-stack web development and modern technologies.
-- 📊 Interested in data analytics, SQL, Power BI, Excel, and data visualization.
+- 🌐 Exploring full-stack web development.
+- 📊 Interested in SQL, Power BI, Excel, and data visualization.
 - 🤖 Exploring Artificial Intelligence, Machine Learning, Deep Learning, and NLP.
-- 🛠️ Learning by building projects and experimenting with new tools.
+- 🛠️ Learning by building real-world projects.
 - 🌱 Continuously improving my technical and problem-solving skills.
-- 🎯 Aspiring to build meaningful technology solutions and grow as a software professional.
+- 🎯 Aspiring to develop meaningful technology solutions.
 
 ---
 
@@ -34,70 +34,85 @@ Hi! I'm **Pragathi BR**, a BCA student passionate about software development, da
 ### 💻 Programming Languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java and JavaScript icons" />
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java and JavaScript"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
 </div>
 
 ### 🌐 Frontend Development
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS and React icons" />
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS and React"/>
+
 </div>
 
 ### ⚙️ Backend Development
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express icons" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+
 </div>
 
-### 🗄️ Databases and Data Management
+### 🗄️ Databases and Data Warehousing
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB icons" />
 
-<img src="https://img.shields.io/badge/SQL-Queries%20%26%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Data%20Warehousing-DWM-2563EB?style=for-the-badge" alt="Data Warehousing" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL"/>
+
+<img src="https://img.shields.io/badge/Database%20Management-DBMS-2563EB?style=for-the-badge" alt="Database management"/>
+<img src="https://img.shields.io/badge/Data%20Warehousing-DWM-0891B2?style=for-the-badge" alt="Data warehousing"/>
+
 </div>
 
 ### 📊 Data Analytics and Business Intelligence
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Microsoft Power BI" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Microsoft Power BI"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python icon" />
-
-<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Statistics-Data%20Insights-0F766E?style=for-the-badge" alt="Statistics" />
-<img src="https://img.shields.io/badge/Analytics-Dashboards-0891B2?style=for-the-badge" alt="Analytics and dashboards" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Statistics-0F766E?style=for-the-badge" alt="Statistics"/>
 
 </div>
 
-**Key areas:** Data cleaning, exploratory data analysis, SQL queries, data visualization, dashboards, statistical analysis, and business insights.
+**Areas of interest:** Data cleaning, SQL queries, exploratory data analysis, statistical analysis, dashboards, data visualization, and business insights.
 
 ### 🤖 Artificial Intelligence and Machine Learning
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="TensorFlow, PyTorch and scikit-learn icons" />
 
-<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-8B5CF6?style=for-the-badge" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/NLP-Text%20Processing-0E7490?style=for-the-badge" alt="Natural Language Processing" />
-<img src="https://img.shields.io/badge/Generative%20AI-AI%20Applications-7C3AED?style=for-the-badge" alt="Generative AI" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="TensorFlow, PyTorch and scikit-learn"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-8B5CF6?style=for-the-badge" alt="Deep learning"/>
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-0E7490?style=for-the-badge" alt="Natural language processing"/>
+<img src="https://img.shields.io/badge/Generative%20AI-AI%20Applications-7C3AED?style=for-the-badge" alt="Generative AI"/>
+
 </div>
 
-### 🛠️ Tools and Development Environment
+### 🛠️ Developer Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman icons" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman"/>
+
 </div>
 
 ### 🔌 IoT and Robotics
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino icon" />
-<img src="https://img.shields.io/badge/IoT-Internet%20of%20Things-0891B2?style=for-the-badge" alt="Internet of Things" />
-<img src="https://img.shields.io/badge/Robotics-Embedded%20Systems-475569?style=for-the-badge" alt="Robotics and embedded systems" />
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
+
+<img src="https://img.shields.io/badge/IoT-Internet%20of%20Things-0891B2?style=for-the-badge" alt="Internet of Things"/>
+<img src="https://img.shields.io/badge/Robotics-Embedded%20Systems-475569?style=for-the-badge" alt="Robotics and embedded systems"/>
+
 </div>
 
 ### 📚 Core Technical Concepts
@@ -127,15 +142,17 @@ A MERN stack application focused on job-seeker and employment workflows.
 
 ### 2. 🌱 GreenTrace — Student Carbon Footprint Tracker
 
-A sustainability-focused application for exploring the environmental impacts of everyday products.
+A sustainability-focused application that helps students explore the environmental impact of everyday products.
 
 **Technologies:** HTML • CSS • JavaScript • Python
 
 - Explores carbon emissions, water, energy, and waste.
 - Includes a “Should I Switch?” concept to encourage sustainable choices.
-- Focuses on products relevant to Indian students.
+- Focuses on everyday products relevant to Indian students.
 
-[![Live Demo](https://img.shields.io/badge/Explore%20GreenTrace-15803D?style=for-the-badge&logo=netlify&logoColor=white)](https://splendid-fudge-521fc5.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-15803D?style=for-the-badge&logo=netlify&logoColor=white)](https://splendid-fudge-521fc5.netlify.app/)
+
+<!-- Add your GreenTrace GitHub repository URL here once confirmed. -->
 
 ### 3. 🛡️ SMS Spam Detection
 
@@ -162,11 +179,16 @@ A project focused on hospital staff shift organization and roster management.
 
 ### 6. 🤖 GitHub Code Explainer
 
-An AI-assisted code explanation project designed around understanding GitHub repositories.
+An AI-assisted code explanation project designed to help users understand code in GitHub repositories.
 
 **Technologies:** Python • Streamlit • Transformers • GitPython
 
+- Explores AI-assisted code understanding.
+- Uses repository processing and language-model concepts.
+
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/GitHub-Code_Explainer)
+
+<!-- Add the deployed Streamlit URL here after confirming that the app is publicly accessible. -->
 
 ### 7. 🚗 Runtime Terror — Arduino RC Car and Line Follower
 
@@ -184,9 +206,11 @@ A project exploring Agentic AI concepts and AI-powered workflows.
 
 ### 9. 📊 Superstore Sales Dashboard
 
-A data visualization project focused on exploring sales data and presenting insights through a dashboard.
+A business intelligence project focused on exploring sales data and presenting insights through a dashboard.
 
 **Technologies:** Power BI • Excel • Data Visualization
+
+<!-- Add your own Superstore Sales Dashboard GitHub repository URL here once confirmed. -->
 
 ---
 
@@ -194,7 +218,7 @@ A data visualization project focused on exploring sales data and presenting insi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Continuous%20Learning-Certifications-0E7490?style=for-the-badge&logo=academia&logoColor=white" alt="Continuous learning" />
+<img src="https://img.shields.io/badge/Certifications-Continuous%20Learning-0E7490?style=for-the-badge&logo=academia&logoColor=white" alt="Certifications and continuous learning"/>
 
 </div>
 
@@ -234,7 +258,7 @@ A data visualization project focused on exploring sales data and presenting insi
 - 1M1B Green Skills and Applied AI for Climate Action — Virtual Internship, 2026
 - Power BI and IoT Bootcamp — Alliance University, 2026
 
-*Note: These are based on the courses, certificates, and learning programs you've previously mentioned. Please check each title against the exact certificate before publishing, and add individual certificate links where available.*
+*Please verify each title against your certificate and add individual credential links where available.*
 
 ---
 
@@ -244,25 +268,25 @@ A data visualization project focused on exploring sales data and presenting insi
 
 ### 🌌 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragathidevanga&bg_color=0d1117&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragathidevanga&bg_color=0d1117&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 
 <br/>
 
-### 💻 Languages in My Repositories
+### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathidevanga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" width="60%" alt="Top languages in public repositories" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathidevanga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" width="55%" alt="Most used languages in public repositories"/>
 
 <br/><br/>
 
-### ⚡ GitHub Profile Stats
+### ⚡ GitHub Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=pragathidevanga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&include_all_commits=true" width="70%" alt="GitHub profile statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=pragathidevanga&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" width="70%" alt="GitHub overview statistics"/>
 
 <br/><br/>
 
 ### 🐍 Watch My Contributions Come to Life
 
-<img src="https://raw.githubusercontent.com/pragathidevanga/pragathidevanga/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/pragathidevanga/pragathidevanga/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
@@ -308,14 +332,14 @@ I'm always learning, always building, and always looking for the next challenge.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pragathidevanga&style=flat-square&color=0891b2&label=PROFILE+VISITORS" alt="Profile visitors" />
+<img src="https://komarev.com/ghpvc/?username=pragathidevanga&style=flat-square&color=0891b2&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 <br/><br/>
 
-###  🩷 Thanks for visiting my profile!
+### 🩷 Thanks for visiting my profile!
 
 **Keep learning. Keep building. Keep growing.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,50:075985,100:06B6D4&height=120&section=footer" width="100%" alt="Blue and cyan footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,50:075985,100:06B6D4&height=120&section=footer" width="100%" alt="Blue and cyan footer banner"/>
 
 </div>
