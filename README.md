@@ -106,6 +106,7 @@ A sustainability-focused application that helps students explore the environment
 - Explores product lifecycle impacts, including carbon emissions, water, energy, and waste.
 - Includes a “Should I Switch?” concept to encourage more sustainable choices.
 - Designed around everyday products relevant to Indian students.
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/GreenTrace-Indian-College-Student-Carbon-Footprint-Tracker)
 
 [![Live Demo](https://img.shields.io/badge/EXPLORE_GREENTRACE-15803D?style=for-the-badge&logo=netlify&logoColor=white)](https://splendid-fudge-521fc5.netlify.app/)
 
@@ -160,7 +161,10 @@ A developer-focused project designed to help users explore and understand code i
 - Explores AI-assisted code explanation.
 - Uses repository processing and language-model concepts to support code understanding.
 
-[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/GitHub-Code_Explainer)
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/Local-GitHub-Repository-Code-Explainer)
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=netlify&logoColor=white)](https://local-app-repository-code-explainer-czqt3dikhxtfcfga9j7kee.streamlit.app/)
+
 
 ---
 
@@ -193,7 +197,7 @@ A business-oriented data visualization project designed to explore sales data an
 
 **Technologies:** Power BI • Excel • Data Visualization
 
-*Add the repository link here if you want to feature this project once its exact public repository URL is confirmed.*
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga/Data_Warehosuing_Fundamentals-DWM-)
 
 ---
 
@@ -204,7 +208,7 @@ A business-oriented data visualization project designed to explore sales data an
 ### 📊 Profile Statistics
 
 <img src="https://ghstats.dev/api/card?username=pragathidevanga&theme=tokyonight" width="49%" alt="GitHub profile statistics" />
-<img src="https://ghstats.dev/api/card?username=pragathidevanga&layout=donut&theme=tokyonight" width="49%" alt="GitHub language breakdown" />
+
 
 <br/><br/>
 
@@ -266,3 +270,7 @@ Let's connect, share ideas, and learn together!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:071A2C&height=110&section=footer" width="100%" alt="Decorative footer banner" />
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0F2027,100:2C5364&section=footer" width="100%" alt="Profile footer"/>
+</p>
