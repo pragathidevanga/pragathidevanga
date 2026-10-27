@@ -265,8 +265,8 @@ Let's connect, share ideas, and learn together!
 [![Portfolio](https://img.shields.io/badge/Portfolio-C0268C?style=for-the-badge&logo=vercel&logoColor=white)](https://pragathi-br.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragathi-br-4b1498405/)
 [![Gmail](https://img.shields.io/badge/Gmail-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragathidevanga11@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F472B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-9333EA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F472B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PRAGATHI_BR_DEVANGA/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-9333EA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pragathidevanga1)
 
 <br/>
 
