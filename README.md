@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A1942,50:C0268C,100:8B5CF6&height=230&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PRAGATHI%20BR%20%7C%20BUILDING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=58&descColor=FCE7F3" width="100%" alt="Welcome to my GitHub profile" />
 
@@ -14,6 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-C0268C?style=for-the-badge&logo=vercel&logoColor=white)](https://pragathi-br.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragathi-br-4b1498405/)
+[![Gmail](https://img.shields.io/badge/GMAIL-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragathidevanga11@gmail.com)
 
 </div>
 
@@ -263,6 +264,7 @@ Let's connect, share ideas, and learn together!
 [![GitHub](https://img.shields.io/badge/GitHub-4A1942?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathidevanga)
 [![Portfolio](https://img.shields.io/badge/Portfolio-C0268C?style=for-the-badge&logo=vercel&logoColor=white)](https://pragathi-br.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragathi-br-4b1498405/)
+[![Gmail](https://img.shields.io/badge/Gmail-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragathidevanga11@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F472B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-9333EA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
